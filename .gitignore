@@ -1,4 +1,5 @@
 # Streamlit secrets (contains sensitive credentials)
+.streamlit/secrets.toml
 *token-secret*.txt
 
 # Virtual environment
